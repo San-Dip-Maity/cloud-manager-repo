@@ -1,9 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/login": "pages/login.js",
-  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
-  "/folder/[folderId]": "pages/folder/[folderId].js"
-}
+{"/_app":"pages/_app.js","/_error":"pages/_error.js","/_document":"pages/_document.js","/api/hello":"pages/api/hello.js","/folder/[folderId]":"pages/folder/[folderId].html","/login":"pages/login.html","/":"pages/index.html","/api/auth/[...nextauth]":"pages/api/auth/[...nextauth].js","/404":"pages/404.html"}
